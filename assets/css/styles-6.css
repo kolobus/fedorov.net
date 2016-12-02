@@ -92,6 +92,9 @@ p {
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
