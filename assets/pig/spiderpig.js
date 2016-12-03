@@ -10,4 +10,4 @@ if (window.HTMLAudioElement) {
 	snd.play();
 }
 
-$("img#profile").attr("src", "/assets/pig/homer.png");
+$("img.profile").attr("src", "/assets/pig/homer.png");
