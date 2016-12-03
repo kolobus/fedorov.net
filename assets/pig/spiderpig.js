@@ -9,3 +9,5 @@ if (window.HTMLAudioElement) {
 	}
 	snd.play();
 }
+
+$("img#profile").src("/assets/pig/homer.png");
