@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/kolo
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://mf.je
+  * I am kolo (https://keybase.io/kolo) on keybase.
+  * I have a public key ASCWMFDY_hJpIuGG4EuzY5AJXqh4JUn7e0xcNZJPTHh8hAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120963050d8fe126922e186e04bb36390095ea8782549fb7b4c5c35924f4c787c840a",
+            "host": "keybase.io",
+            "kid": "0120963050d8fe126922e186e04bb36390095ea8782549fb7b4c5c35924f4c787c840a",
+            "uid": "6220fbf36844f8baf2732b57bcfcaf19",
+            "username": "kolo"
+        },
+        "service": {
+            "hostname": "mf.je",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480843016,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480842805,
+        "hash": "053eb755cd8fbb406092c436330125567b560fc21fd29734e033a61ab28ccece86f8df456a61c3f44de8d8107bd9ccc9df56435f6ee82b583dcd019a86d438c4",
+        "seqno": 746911
+    },
+    "prev": "1a7c07530e90eac73232aac03670042bd1eb97d51c28dc0d0fca52047c5cd78c",
+    "seqno": 71,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgljBQ2P4SaSLhhuBLs2OQCV6oeCVJ+3tMXDWST0x4fIQKp3BheWxvYWTFAup7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTYzMDUwZDhmZTEyNjkyMmUxODZlMDRiYjM2MzkwMDk1ZWE4NzgyNTQ5ZmI3YjRjNWMzNTkyNGY0Yzc4N2M4NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTYzMDUwZDhmZTEyNjkyMmUxODZlMDRiYjM2MzkwMDk1ZWE4NzgyNTQ5ZmI3YjRjNWMzNTkyNGY0Yzc4N2M4NDBhIiwidWlkIjoiNjIyMGZiZjM2ODQ0ZjhiYWYyNzMyYjU3YmNmY2FmMTkiLCJ1c2VybmFtZSI6ImtvbG8ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1mLmplIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODA4NDMwMTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MDg0MjgwNSwiaGFzaCI6IjA1M2ViNzU1Y2Q4ZmJiNDA2MDkyYzQzNjMzMDEyNTU2N2I1NjBmYzIxZmQyOTczNGUwMzNhNjFhYjI4Y2NlY2U4NmY4ZGY0NTZhNjFjM2Y0NGRlOGQ4MTA3YmQ5Y2NjOWRmNTY0MzVmNmVlODJiNTgzZGNkMDE5YTg2ZDQzOGM0Iiwic2Vxbm8iOjc0NjkxMX0sInByZXYiOiIxYTdjMDc1MzBlOTBlYWM3MzIzMmFhYzAzNjcwMDQyYmQxZWI5N2Q1MWMyOGRjMGQwZmNhNTIwNDdjNWNkNzhjIiwic2Vxbm8iOjcxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB2oiQWtm42K86AbF5AOCJi+vDI0CfLmVNENPUq5bxUmw1YiT0/YjsBO3GUfw4xPcMOtb+AIhtux3l9KvjeZrwOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBDPqbTV5Q+l1lEyYV5oVTI7AW6PuR05cuScdY+LMMBQaN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kolo
+
+==================================================================
+
