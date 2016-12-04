@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html>
+<!--
+
+  Should the machines arise, KBFS is where I'll hide.
+
+-->
+<head>
+  <title>panel.jpg – Keybase.pub</title>
+  <meta name="viewport"    content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta charset="UTF-8" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Cache-Control" content="no-cache, must-revalidate" />
+  <link href='https://fonts.googleapis.com/css?family=Lato:400,700|Source+Code+Pro:400,300,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/stylesheets/bootstrap.css">
+  <link rel="stylesheet" href="/stylesheets/screen.css">
+  <link rel="stylesheet" href="/stylesheets/font-awesome.min.css">
+  <meta name="application-name" content="Keybase.pub" />
+
+
+<link rel="apple-touch-icon" sizes="57x57" href="/images/icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/images/icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/images/icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/images/icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/images/icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/images/icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/images/icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/images/icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/images/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/images/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/images/icons/favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/images/icons/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+
+</head>
+<body>
+
+  <div class="header">
+  <div class="container">
+    <nav class="navbar">
+      
+<label class="sr-only" for="path-entry-username">enter keybase username</label>
+
+
+
+<table class="path-entry-table">
+  <tr>
+    <td>
+      <a class="navbar-brand" href="/"><img src="/images/icons/logo-no-text.png" alt="Keybase Logo" class="logo"></a>
+    </td>
+    <td>
+      <input type="text" class="form-control" id="path-entry-username" placeholder="keybase username" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false">
+    </td>
+    <td>
+      <button class="btn btn-primary btn-open-user-path"><i class="fa fa-folder-open"></i></button>
+    </td>
+  </tr>
+</table>
+
+    </nav>
+  </div>
+</div>
+
+
+  <div class="body-outer-wrapper">
+
+  
+<div class="breadcrumbs">
+  <div class="container">
+    <a href="/" class="linked"><span class="special-slash">/</span>keybase<span class="special-slash">/</span>public</a
+  >/<a href="https://keybase.pub/kolo/" class="linked">kolo</a><wbr>/<a href="https://keybase.pub/kolo/mojo/" class="linked">mojo</a><wbr>/<span class="pwd">panel.jpg</span>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-7 col-md-8 col-lg-8 col-contents kb-main-card file-or-dir-body">
+      
+
+<div class="file-contents">
+  
+      <img src="https://kolo.keybase.pub/mojo/panel.jpg" class="preview">
+    
+      <div class="download-btn-group">
+        <a href="https://kolo.keybase.pub/mojo/panel.jpg?dl=1" class="btn btn-primary btn-sm hidden-xs"><i class="fa fa-cloud-download"></i> Download</a>
+        <a href="https://kolo.keybase.pub/mojo/panel.jpg" class="btn btn-primary btn-sm"><i class="fa fa-code"></i> Raw</a>
+      </div>
+    
+</div>
+
+    </div>
+    <div class="col-sm-5 col-md-4 col-lg-4 col-sidebar kb-sub-card ">
+      
+<div class="owner">
+  <p>
+    This file was signed by:
+  </p>
+  <div class="face-card">
+    
+    <table>
+      <tr>
+      <td><img src="https://s3.amazonaws.com/keybase_processed_uploads/565c15320be34c88fdf96e6ce1f28f05_360_360_square_360.jpeg" width="50" height="50" class="img-circle"></td>
+      <td class="username-cell">
+        <div class="picture-caption">
+          <a href="https://keybase.io/kolo"><span class="keybase-user-link username">kolo</span></a>
+        </div>
+        
+            <div class="user-fullname">
+              Mihail «Kolo» Fedorov
+            </div>
+          
+      </td>
+      </tr>
+    </table>
+  </div>
+  
+    <p>Who is also provably:</p>
+    <ul class="proof-list">
+      
+          <li>
+            <i class="fa fa-twitter"></i>
+            <a href="https://twitter.com/2mf">2mf</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-github"></i>
+            <a href="https://github.com/kolobus">kolobus</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-reddit"></i>
+            <a href="https://reddit.com/user/kolobus">kolobus</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-bitcoin"></i>
+            <a href="https://coinbase.com/kolo">kolo</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-globe"></i>
+            <a href="https://www.facebook.com/mihailfedorov">mihailfedorov</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-globe"></i>
+            <a href="http://mf.je">mf.je</a>
+            
+          </li>
+        
+          <li>
+            <i class="fa fa-globe"></i>
+            <a href="http://fedorov.net">fedorov.net</a>
+            
+          </li>
+        
+    </ul>
+  
+
+</div>
+
+      <div class="what-is-keybase">
+        <p>Using the <a href="https://keybase.io/introducing-the-keybase-filesystem">Keybase filesystem</a>.</p>
+
+        <div class="small">
+          <pre class="code code-highlighted"><span class="hljs-comment"># OSX</span>
+open /keybase/public/kolo
+
+<span class="hljs-comment"># Linux</span>
+<span class="hljs-built_in">cd</span> /keybase/public/kolo
+</pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </div>
+
+  <script src="/javascripts/main.js"></script>
+  
+<div class="footer">
+  
+</div>
+
+</body>
+</html>
