@@ -6,18 +6,16 @@ I hereby claim:
 
   * I am an admin of https://mf.je
   * I am kolo (https://keybase.io/kolo) on keybase.
-  * I have a public key with fingerprint 5B1F 75B3 2329 7B83 0E9F  5B90 3C0F 560E 3692 84F7
+  * I have a public key ASCWMFDY_hJpIuGG4EuzY5AJXqh4JUn7e0xcNZJPTHh8hAo
 
 To do so, I am signing this object:
 
 {
     "body": {
         "key": {
-            "eldest_kid": "0101caab61b7c1cc3c7ce36eb384b551d79adbd71b9ce53eca4f9bd940503fff0ba30a",
-            "fingerprint": "5b1f75b323297b830e9f5b903c0f560e369284f7",
+            "eldest_kid": "0120963050d8fe126922e186e04bb36390095ea8782549fb7b4c5c35924f4c787c840a",
             "host": "keybase.io",
-            "key_id": "3c0f560e369284f7",
-            "kid": "0101caab61b7c1cc3c7ce36eb384b551d79adbd71b9ce53eca4f9bd940503fff0ba30a",
+            "kid": "0120963050d8fe126922e186e04bb36390095ea8782549fb7b4c5c35924f4c787c840a",
             "uid": "6220fbf36844f8baf2732b57bcfcaf19",
             "username": "kolo"
         },
@@ -28,37 +26,25 @@ To do so, I am signing this object:
         "type": "web_service_binding",
         "version": 1
     },
-    "ctime": 1480728443,
-    "expire_in": 157680000,
-    "prev": "21c795b5e5ac07581eba47aab51b9e5522d42ee4431e9bc51b1068e90a85903d",
-    "seqno": 40,
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1480843016,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1480842805,
+        "hash": "053eb755cd8fbb406092c436330125567b560fc21fd29734e033a61ab28ccece86f8df456a61c3f44de8d8107bd9ccc9df56435f6ee82b583dcd019a86d438c4",
+        "seqno": 746911
+    },
+    "prev": "1a7c07530e90eac73232aac03670042bd1eb97d51c28dc0d0fca52047c5cd78c",
+    "seqno": 71,
     "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-Version: Keybase OpenPGP v2.0.58
-Comment: https://keybase.io/crypto
-
-yMIhAnicrVJLaBNBGE4btSRaKkpQVChuICqNdfYx2d2IpRiw9UGxBERBjTOzM+lq
-k003m6axFvXkQaVqTwqCIDbVeqi2KvhCa7X4OniwWjz46EEU7aH4wvds0ZtH5zLM
-N9/3/d//zwyVez3+Et+bM4FXQ7sGS+7fPJjzbFxZ2d4uYMsoCNF2YQed3GizQbNO
-YodpCFEBiEAkCOGIiFUiEiITlVA5QrGsKRhC0VB1ZGBDFbFOKJQpQQrTsaErAAKZ
-MQYwkgESwgIz00lqZ2wz7XBbiEWmQixLsqSrWJMB1RnEOpAJYDACeAVd0hSmcmGT
-lXUVPBxGWVptWhzjh8RkvH/w/3Pu3KRdRJIAw0yOaIrCNIyYpMoShiomjCAm6i4x
-S+00SlE3q9VsCR1hgSOtJqHuUN0u/tymWPV2ygUZ23IsYjVzqMlxMtmoK3EKGZeT
-pzjxR53AZtrgw+OKVmpnTSstREXOJI7p2omKBlTeuyKHBdqWMW2aMF0GVCMa4Mut
-Q1u5pSQSVYcYUogIUKEmUowUlY8I8hlQCCXJUCRKuZFIdUw4KoKIRnWANMgfxhDc
-flrSlhBVuKmDktwzaybTyMnZVOgYvLF5iqfE75k2tdT9VR6/b+bfv3Y8XfYrWTrq
-v7H1cumRGT8/VDeEvmxYeHyi79b+1fXzepu6Pn7vPBXv2nfpds3CVbt7a1JSXyN6
-/3JT7OuTT4d6jMCVHy1aNLezdsHo+7XRafb1jkfrxr49PX/Rv+jk4/mft13rfwdR
-VaYqMNDTPX9u44OlX1LhdxfuHS07ORDsD53tXjMyXli8pGdktDY2fPpYcU8hCKcX
-ftbZ3m+XBivz87pnxeLLDqwIzVr+rC7ve3h4zUb29u709SAoxL1l3qu9D9oaJvrr
-Qe2mF+OIlc8Ozq04ZRY7lxY3DLw+JzorK0aqeseGT4D8HPNuaGzc51vx/M6HrW37
-Wh6V73UCz71bJmLeuFD8DeMoOYs=
-=R4uE
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgljBQ2P4SaSLhhuBLs2OQCV6oeCVJ+3tMXDWST0x4fIQKp3BheWxvYWTFAup7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTYzMDUwZDhmZTEyNjkyMmUxODZlMDRiYjM2MzkwMDk1ZWE4NzgyNTQ5ZmI3YjRjNWMzNTkyNGY0Yzc4N2M4NDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwOTYzMDUwZDhmZTEyNjkyMmUxODZlMDRiYjM2MzkwMDk1ZWE4NzgyNTQ5ZmI3YjRjNWMzNTkyNGY0Yzc4N2M4NDBhIiwidWlkIjoiNjIyMGZiZjM2ODQ0ZjhiYWYyNzMyYjU3YmNmY2FmMTkiLCJ1c2VybmFtZSI6ImtvbG8ifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im1mLmplIiwicHJvdG9jb2wiOiJodHRwczoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODA4NDMwMTYsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MDg0MjgwNSwiaGFzaCI6IjA1M2ViNzU1Y2Q4ZmJiNDA2MDkyYzQzNjMzMDEyNTU2N2I1NjBmYzIxZmQyOTczNGUwMzNhNjFhYjI4Y2NlY2U4NmY4ZGY0NTZhNjFjM2Y0NGRlOGQ4MTA3YmQ5Y2NjOWRmNTY0MzVmNmVlODJiNTgzZGNkMDE5YTg2ZDQzOGM0Iiwic2Vxbm8iOjc0NjkxMX0sInByZXYiOiIxYTdjMDc1MzBlOTBlYWM3MzIzMmFhYzAzNjcwMDQyYmQxZWI5N2Q1MWMyOGRjMGQwZmNhNTIwNDdjNWNkNzhjIiwic2Vxbm8iOjcxLCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQB2oiQWtm42K86AbF5AOCJi+vDI0CfLmVNENPUq5bxUmw1YiT0/YjsBO3GUfw4xPcMOtb+AIhtux3l9KvjeZrwOoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBDPqbTV5Q+l1lEyYV5oVTI7AW6PuR05cuScdY+LMMBQaN0YWfNAgKndmVyc2lvbgE=
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -66,3 +52,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/kolo
 
 ==================================================================
+
