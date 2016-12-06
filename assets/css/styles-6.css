@@ -69,9 +69,6 @@ p {
   text-align: center;
   color: #fff;
 }
-.sidebar-wrapper .resources-container {
-  background: rgba(0, 0, 0, 0.2);
-}
 .sidebar-wrapper .name {
   font-size: 32px;
   font-weight: 900;
@@ -114,6 +111,18 @@ p {
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 15px;
+}
+.sidebar-wrapper .resources-container {
+  background: rgba(0, 0, 0, 0.2);
+}
+.sidebar-wrapper .resources-list {
+  margin-bottom: 0;
+}
+.sidebar-wrapper .resources-list li {
+  margin-bottom: 10px;
+}
+.sidebar-wrapper .resources-list li:last-child {
+  margin-bottom: 0;
 }
 .sidebar-wrapper .degree {
   font-size: 14px;
