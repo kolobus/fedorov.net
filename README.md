@@ -1,8 +1,11 @@
 # What is this?
 
-Nothing but your dream.
 Thats just my CV website.
-[https://fedorov.net]
+Located at: https://fedorov.net
+
+Highly experimental.
+
+If you fond bugs in my biography - feel free to make pull request.
 
 # Can I haz pony?
 
