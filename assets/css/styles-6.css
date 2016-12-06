@@ -70,7 +70,7 @@ p {
   color: #fff;
 }
 .sidebar-wrapper .resources-container {
-  background: #4B6A78;
+  background: rgba(0, 0, 0, 0.2);
 }
 .sidebar-wrapper .name {
   font-size: 32px;
