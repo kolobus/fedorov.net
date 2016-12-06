@@ -1,11 +1,8 @@
 # What is this?
 
-Thats just my CV website.
-Located at: https://fedorov.net
+Thats just my CV website, located at: https://fedorov.net and highly experimental.
 
-Highly experimental.
-
-If you fond bugs in my biography - feel free to make pull request.
+If you found bugs in my biography - feel free to make pull request.
 
 # Can I haz pony?
 
