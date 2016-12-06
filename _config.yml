@@ -2,3 +2,5 @@
 title: Mihail Fedorov - personal webspace
 url: 'https://fedorov.net'
 baseurl: 'https://fedorov.net'
+
+include: [".well-known"]
