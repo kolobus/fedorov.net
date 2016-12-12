@@ -11,11 +11,11 @@ defaults:
       path: ""
       type: "posts"
     values:
-      comments: true
-      layout: post
+      comments: "true"
+      layout: "post"
   -
     scope:
       path: ""
       type: "pages"
     values:
-      layout: default
+      layout: "default"
