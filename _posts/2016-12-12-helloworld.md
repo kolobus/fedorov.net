@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello world
-permalink: helloworld
+comments: true
 ---
 
 Hey, it's alive!
