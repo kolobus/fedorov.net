@@ -272,11 +272,14 @@ p {
   font-size: 13px;
   text-align: center;
 }
+.footer {
+  max-width: 960px;
+}
 .footer .fa-heart {
   color: #fb866a;
 }
 .footer .right-logo {
-  
+
 }
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
