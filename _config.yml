@@ -7,7 +7,7 @@ include: ["_pages"]
 
 defaults:
   -
-    scope: ""
+    scope:
       path: ""
       type: "posts"
     values:
