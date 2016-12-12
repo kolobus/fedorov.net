@@ -274,6 +274,7 @@ p {
 }
 .footer {
   max-width: 960px;
+  margin: 0 auto;
 }
 .footer .fa-heart {
   color: #fb866a;
