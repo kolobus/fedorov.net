@@ -1,6 +1,6 @@
-title: Mihail Fedorov - personal webspace
-url: 'https://fedorov.net'
-baseurl: 'https://fedorov.net'
+title: "Mihail Fedorov - personal webspace"
+url: "https://fedorov.net"
+baseurl: "https://fedorov.net"
 
 timezone: Europe/Moscow
 include: ["_pages"]
@@ -12,4 +12,10 @@ defaults:
       type: "posts"
     values:
       comments: true
-      layout: "post"
+      layout: post
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: default
