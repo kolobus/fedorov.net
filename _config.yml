@@ -3,7 +3,7 @@ url: "https://fedorov.net"
 baseurl: "https://fedorov.net"
 
 timezone: Europe/Moscow
-include: ["_pages"]
+include: ["_pages","_"]
 
 # Deafults fron-matter
 
