@@ -6,9 +6,6 @@ timezone: Europe/Moscow
 include: ["_pages","_"]
 exclude: ["_obsolete"]
 
-gems:
-  - jekyll-sitemap
-
 defaults:
   -
     scope:
