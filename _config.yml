@@ -5,6 +5,8 @@ baseurl: "https://fedorov.net"
 timezone: Europe/Moscow
 include: ["_pages","_"]
 
+gems:
+  - jekyll-sitemap
 # Deafults front-matter
 
 defaults:
