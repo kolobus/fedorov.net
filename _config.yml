@@ -17,6 +17,6 @@ defaults:
     scope:
       path: "blog"
     values:
-      comments: "true"
+      comments: true
       layout: "post"
       permalink: "/blog/:year/:slug"
