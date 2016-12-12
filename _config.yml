@@ -5,17 +5,17 @@ baseurl: "https://fedorov.net"
 timezone: Europe/Moscow
 include: ["_pages"]
 
+# Deafults fron-matter
+
 defaults:
   -
     scope:
       path: ""
-      type: "posts"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "blog"
     values:
       comments: "true"
       layout: "post"
-  -
-    scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
