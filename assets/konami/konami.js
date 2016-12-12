@@ -1,6 +1,6 @@
 if (window.HTMLAudioElement) {
 	var snd = new Audio('');
-	var afile = '/assets/pig/spiderpig.';
+	var afile = '/assets/konami/spiderpig.';
 
 	if(snd.canPlayType('audio/ogg')) {
 		snd = new Audio(afile+'ogg');
@@ -10,4 +10,4 @@ if (window.HTMLAudioElement) {
 	snd.play();
 }
 
-$("img.profile").attr("src", "/assets/pig/homer.png");
+$("img.profile").attr("src", "/assets/konami/homer.png");

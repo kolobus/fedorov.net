@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
 		  code += key.toString();
 		  code = code.substr(-20,20);
 			if(code == '38384040373937396665') {
-				$.ajax({type: 'GET', url: '/assets/pig/spiderpig.js', cache: true, dataType: 'script'});
+				$.ajax({type: 'GET', url: '/assets/konami/konami.js', cache: true, dataType: 'script'});
 				code = '';
       }
 	  });
