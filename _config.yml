@@ -3,8 +3,8 @@ url: "https://fedorov.net"
 baseurl: ""
 
 timezone: Europe/Moscow
-include: ["_"]
-exclude: ["_layouts","_includes"]
+keep_files: ["_"]
+exclude: ["_layouts","_includes","_obsolete"]
 
 gems:
   - jekyll-sitemap
