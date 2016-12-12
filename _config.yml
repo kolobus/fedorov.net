@@ -11,6 +11,7 @@ defaults:
   -
     scope:
       path: ""
+      type: "pages"
     values:
       layout: "default"
   -
@@ -20,4 +21,4 @@ defaults:
     values:
       comments: true
       layout: "post"
-      permalink: "/blog/:year/:slug"
+      permalink: "/blog/:year/:slug/"
