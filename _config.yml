@@ -1,6 +1,6 @@
 title: "Mihail Fedorov - personal webspace"
 url: "https://fedorov.net"
-baseurl: "/"
+baseurl: ""
 
 timezone: Europe/Moscow
 include: ["_pages","_"]
