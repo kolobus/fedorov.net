@@ -2,7 +2,9 @@ title: "Mihail Fedorov - personal webspace"
 url: "https://fedorov.net"
 baseurl: ""
 timezone: Europe/Moscow
+
 include: ["_pages","_"]
+exclude: ["_obsolete"]
 
 gems:
   - jekyll-sitemap
