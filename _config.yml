@@ -3,6 +3,8 @@ url: "https://fedorov.net"
 baseurl: ""
 
 timezone: Europe/Moscow
+
+include: ["_pages"]
 keep_files: ["_"]
 exclude: ["_layouts","_includes","_obsolete"]
 
