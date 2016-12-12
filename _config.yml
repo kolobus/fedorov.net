@@ -4,6 +4,7 @@ baseurl: ""
 
 timezone: Europe/Moscow
 include: ["_"]
+exclude: ["_layouts","_includes"]
 
 gems:
   - jekyll-sitemap
