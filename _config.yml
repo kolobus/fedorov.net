@@ -4,7 +4,7 @@ baseurl: ""
 
 timezone: Europe/Moscow
 include: ["_"]
-exclude: ["_obsolete","_posts","_includes"."_layouts"]
+
 gems:
   - jekyll-sitemap
 # Deafults front-matter
