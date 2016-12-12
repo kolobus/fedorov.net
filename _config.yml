@@ -1,6 +1,15 @@
-
 title: Mihail Fedorov - personal webspace
 url: 'https://fedorov.net'
 baseurl: 'https://fedorov.net'
 
+timezone: Europe/Moscow
 include: ["_pages"]
+
+defaults:
+  -
+    scope: ""
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+      layout: "post"
