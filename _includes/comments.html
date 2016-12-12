@@ -1,19 +1,5 @@
 {% if page.comments %}
 <div class="comments">
-	<script src="https://apis.google.com/js/plusone.js"></script>
-	<div id="comments"></div>
-	<script>
-	gapi.comments.render('comments', {
-	    href: window.location,
-	    width: '624',
-	    first_party_property: 'BLOGGER',
-	    view_type: 'FILTERED_POSTMOD'
-	});
-	</script>
-
-	<br /><br />
-
-
 	<div id="disqus_thread"></div>
 	<script type="text/javascript">
 
@@ -24,6 +10,6 @@
 	    })();
 
 	</script>
-	<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	<noscript>Please enable JavaScript to view the comments.</noscript>
 </div>
 {% endif %}
