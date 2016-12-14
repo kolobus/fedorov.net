@@ -1,7 +1,19 @@
-title: "Mihail Fedorov - personal webspace"
 url: "https://fedorov.net"
 baseurl: ""
 timezone: Europe/Moscow
+
+# Seo stuff
+title: "Mihail Fedorov - personal webspace"
+description: "Personal webspace of Mihail Fedorov. Resume, portfolio, projects, ideas, contacts."
+logo: /assets/img/share.jpg
+twitter:
+  username: 2mf
+facebook:
+  publisher: 1248410014
+social:
+  name: Mihail Fedorov
+# End seo stuff
+
 
 include: ["_pages","_"]
 exclude: ["_obsolete"]
@@ -20,4 +32,5 @@ repository: kolobus/kolobus.github.io
 
 gems:
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jemoji
