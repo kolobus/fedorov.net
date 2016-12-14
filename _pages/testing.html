@@ -8,4 +8,9 @@ permalink: "/test/"
 <div class="summary">
     <p>Commits: {{ site.github.contributors[kolobus].contributions }}</p>
 </div>
+
+{% highlight json %}
+{{ site.github.contributors | where:"login",site.github.owner_name | jsonify }}
+{% endhighlight %}
+
 </section>
