@@ -1,6 +1,6 @@
 ---
 title: Hello world
-redirect_from: "/blog/2016"
+redirect_from: "/blog/2016/"
 ---
 
 Hey, it's alive!
