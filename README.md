@@ -1,3 +1,5 @@
+![fedorov.net](https://img.shields.io/website-up-down-green-red/http/fedorov.net.svg?style=plastic)
+
 # What is this?
 
 Thats just my CV website, located at: https://fedorov.net and highly experimental.
