@@ -14,13 +14,15 @@ social:
   name: Mihail Fedorov
 # End seo stuff
 
-
 include: ["_pages","_"]
 exclude: ["_obsolete"]
 
 defaults:
-  -
-    scope:
+  - scope:
+      path: ""
+    values:
+      image: /assets/img/share.jpg
+  - scope:
       path: ""
       type: "posts"
     values:
