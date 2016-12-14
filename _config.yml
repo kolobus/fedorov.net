@@ -9,13 +9,7 @@ exclude: ["_obsolete"]
 defaults:
   -
     scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: ""
+      path: "blog"
       type: "posts"
     values:
       comments: true
