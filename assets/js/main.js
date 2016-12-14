@@ -1,7 +1,9 @@
 jQuery(document).ready(function($) {
 
+    // Design
     $('.level-bar-inner').css('width', '0');
 
+    // Design
     $(window).on('load', function() {
         $('.level-bar-inner').each(function() {
             var itemWidth = $(this).data('level');
@@ -11,6 +13,7 @@ jQuery(document).ready(function($) {
         });
     });
 
+    // Konami
   	var code = '';
   	$(window).keydown( function (e) {
     	key = e.keyCode || e.which;
@@ -22,6 +25,13 @@ jQuery(document).ready(function($) {
       }
 	  });
 
+    // Lightbox
     $('.lightbox').magnificPopup({type:'image'});
+
+    // Comments
+    if ( $( "#add-comments" ).length ) {
+      	$( "#add-comments" ).append('<div/>').attr('id', 'disqus_thread');
+        $.ajax({type: 'GET', url: '//fedorovnet.disqus.com/embed.js', cache: true, dataType: 'script'});
+    }
 
 });

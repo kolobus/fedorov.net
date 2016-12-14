@@ -12,5 +12,5 @@ layout: default
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-  {% include comments.html %}
+  {% if page.comments %}<div class="comments" id="add-comments">{% endif %}
 </article>
