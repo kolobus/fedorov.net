@@ -10,7 +10,7 @@ permalink: "/test/"
 </div>
 
 {% highlight json %}
-{{ site.github.contributors | where:"login",site.github.owner_name | jsonify }}
+{{ site.github.contributors | where:"login",site.github.owner_name | .contributions }}
 {% endhighlight %}
 
 </section>
