@@ -1,4 +1,4 @@
-![fedorov.net](https://img.shields.io/website-up-down-green-red/http/fedorov.net.svg?style=plastic)
+[![fedorov.net](https://img.shields.io/website-up-down-green-red/http/fedorov.net.svg?style=plastic)](https://fedorov.net)
 
 # What is this?
 
