@@ -9,7 +9,7 @@ exclude: ["_obsolete"]
 defaults:
   -
     scope:
-      path: "blog"
+      path: ""
       type: "posts"
     values:
       comments: true
