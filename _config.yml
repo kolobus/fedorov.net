@@ -16,5 +16,7 @@ defaults:
       layout: "post"
       permalink: "/blog/:year/:slug/"
 
+repository: kolobus/kolobus.github.io
+
 gems:
   - jekyll-redirect-from
