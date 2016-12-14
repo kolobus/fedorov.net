@@ -17,5 +17,4 @@ defaults:
       permalink: "/blog/:year/:slug/"
 
 gems:
-  - jekyll-sitemap
   - jekyll-redirect-from
