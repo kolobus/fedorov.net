@@ -13,4 +13,4 @@ If you found bugs in my biography - feel free to make pull request.
 
 # Can I haz pony?
 
-![Pony](https://cloud.githubusercontent.com/assets/2559459/21167571/6a15257a-c1be-11e6-8e94-973c3733c6b6.gif)
+![Pony](https://raw.githubusercontent.com/kolobus/kolobus.github.io/mojo/fluttershy.gif)
