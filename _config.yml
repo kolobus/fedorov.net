@@ -6,11 +6,14 @@ timezone: Europe/Moscow
 title: "Mihail Fedorov - personal webspace"
 description: "Personal webspace of Mihail Fedorov. Resume, portfolio, projects, ideas, contacts."
 logo: /assets/img/share.jpg
+
+# Author (me)
+mail: mihail@fedorov.net
 twitter:
   username: 2mf
-social:
-  name: Mihail Fedorov
-# End seo stuff
+money:
+  bitcoin: 1FedorovDiaxVXJjqWk8AFA5x1uNi1N5K6
+  komodo: RMoneyQ7gaPGfQ9sNHuXpNJ685QekUdoBu
 
 include: ["_pages","_"]
 exclude: ["_obsolete"]
