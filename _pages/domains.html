@@ -62,7 +62,7 @@ permalink: "/domains/"
 {% include loremipsum.html %}
 
 <script language="text/javascript">
-req = new URLSearchParams(window.location.search);
+var req = new URLSearchParams(window.location.search);
 console.log(req);
 if (if req.get("domain")) {
   document.getElementById('domainName').innerHTML(req.get("domain"));
