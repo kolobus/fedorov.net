@@ -99,6 +99,9 @@ p {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
+.sidebar-wrapper .contact-list li:before {
+  content: ''; /* IE9 ellipsis fix */
+}
 .sidebar-wrapper .contact-list li:last-child {
   margin-bottom: 0;
 }
