@@ -62,9 +62,23 @@ permalink: "/domains/"
 {% include loremipsum.html %}
 
 <script language="text/javascript">
-var req = new URLSearchParams(window.location.search);
-console.log(req);
-if (if req.get("domain")) {
-  document.getElementById('domainName').innerHTML(req.get("domain"));
+// http://stackoverflow.com/questions/5448545/how-to-retrieve-get-parameters-from-javascript
+function getSearchParameters() {
+      var prmstr = window.location.search.substr(1);
+      return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
+}
+function transformToAssocArray( prmstr ) {
+    var params = {};
+    var prmarr = prmstr.split("&");
+    for ( var i = 0; i < prmarr.length; i++) {
+        var tmparr = prmarr[i].split("=");
+        params[tmparr[0]] = tmparr[1];
+    }
+    return params;
+}
+var params = getSearchParameters();
+
+if (params.domain) {
+  document.getElementById('domainName').innerHTML(params.domain);
 }
 </script>
