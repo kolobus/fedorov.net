@@ -15,14 +15,14 @@ money:
   bitcoin: 1FedorovDiaxVXJjqWk8AFA5x1uNi1N5K6
   komodo: RMoneyQ7gaPGfQ9sNHuXpNJ685QekUdoBu
 
-include: ["_pages","_"]
+include: ["_pages"]
 exclude: ["_obsolete"]
 
 defaults:
   - scope:
       path: ""
     values:
-      image: /assets/img/share.jpg
+      image: /assets/img/shared.jpg
   - scope:
       path: ""
       type: "posts"
