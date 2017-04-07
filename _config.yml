@@ -13,7 +13,8 @@ twitter:
   username: 2mf
 money:
   bitcoin: 1FedorovDiaxVXJjqWk8AFA5x1uNi1N5K6
-  komodo: RMoneyQ7gaPGfQ9sNHuXpNJ685QekUdoBu
+  komodo: RFAtYK9xn2CFF933ev2R1Adu9zwXawQocp
+  wirelesscoin: RFAtYK9xn2CFF933ev2R1Adu9zwXawQocp
 
 include: ["_pages"]
 exclude: ["_obsolete"]
