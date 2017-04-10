@@ -12,6 +12,7 @@ permalink: "/domains/"
       <input type="hidden" name="_subject" value="[fedorov.net] Domain request" />
       <input type="hidden" name="_next" value="//fedorov.net/domains/?thanks=1" />
       <input type="hidden" name="_format" value="plain" />
+      <input type="hidden" name="domain" value="unknown" id="domainfilled" />
       <input type="text" name="_gotcha" style="display:none" />
       <!--- You're not here -->
 
@@ -80,5 +81,6 @@ var params = getSearchParameters();
 
 if (params.domain) {
   document.getElementById('domainName').innerHTML = params.domain;
+  document.getElementById('domainfilled').value = params.domain;
 }
 </script>
