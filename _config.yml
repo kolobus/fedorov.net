@@ -12,8 +12,8 @@ mail: mihail@fedorov.net
 twitter:
   username: 2mf
 money:
-  bitcoin: 1NweQcZjWiSkJsSA59vmnDjkjK8tYe58We
-  komodo: RBG6pjJgWS1JcfULce1CW8p8VbaeJePtFV
+  bitcoin: 16thToGgBCPgB8frBk3HueJhPjUvv1zGpo
+  komodo: RFAtYK9xn2CFF933ev2R1Adu9zwXawQocp
   wirelesscoin: RFAtYK9xn2CFF933ev2R1Adu9zwXawQocp
 
 include: ["_pages"]
