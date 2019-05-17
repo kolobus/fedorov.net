@@ -11,7 +11,7 @@ Discord nickname: [kolo#1111](https://komodoplatform.com/discord)
 
 ## Contacts
 
-Mail: [mihail@](https://fedorov.net/)fedorov.net
+Mail: [mihail@](https://fedorov.net/)fedorov.net  
 Telegram: [@kolobus](https://t.me/kolobus)  
 Twitter: [@2mf](https://twitter.com/2mf)  
 GitHub: [kolobus](https://github.com/kolobus)
