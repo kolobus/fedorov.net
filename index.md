@@ -16,7 +16,7 @@ Telegram: [@kolobus](https://t.me/kolobus)
 Twitter: [@2mf](https://twitter.com/2mf)  
 GitHub: [kolobus](https://github.com/kolobus)
 
-Please, be careful with your comminication. I never ask for money, advertise any investment tools and coins  or do any other scam. Impersonatiors are shit. Always ask for proof before accepting strange offers.
+Please, be careful with your communication. I never ask for money, advertise any investment tools and coins  or do any other scam. Impersonatiors are shit. Always ask for proof before accepting strange offers.
 
 ## PGP Key
 
