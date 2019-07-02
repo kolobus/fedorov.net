@@ -9,6 +9,8 @@ Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_P
 My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world.  
 Discord nickname: [kolo#1111](https://komodoplatform.com/discord)
 
+Ordinated as a minister of the [Church of the Flying Spaghetti Monster](https://www.venganza.org).
+
 ## Contacts
 
 Mail: [mihail@](https://fedorov.net/)fedorov.net  
