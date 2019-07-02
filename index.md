@@ -29,4 +29,9 @@ I use [KeyBase](https://keybase.io/kolo/) with nickname `kolo` and my key finger
 493E 0F07 CC48 03F3 DA1F 517C F225 8EF2 C55A 2A2F
 ```
 
+## Domains
+
+Following domains are currently for sale: `o.sb`, `k.sb`, `ba.kz`, `nz.kz`, `zl.kz`, `zm.kz`, `zn.kz`, `zr.kz`, `netzr.com`. Please, send your price offers to the e-mail above. Put the domain name in message subject.
+
+
 So long and thanks for all the fish.
