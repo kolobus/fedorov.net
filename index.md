@@ -31,7 +31,8 @@ I use [KeyBase](https://keybase.io/kolo/) with nickname `kolo` and my key finger
 
 ## Domains
 
-Following domains are currently for sale: `o.sb`, `k.sb`, `ba.kz`, `nz.kz`, `zl.kz`, `zm.kz`, `zn.kz`, `zr.kz`, `netzr.com`. Please, send your price offers to the e-mail above. Put the domain name in message subject.
+Following domains are currently for sale: `o.sb`, `k.sb`, `ba.kz`, `nz.kz`, `zl.kz`, `zm.kz`, `zn.kz`, `zr.kz`, `netzr.com`. Please, send your price offers to the e-mail above. Put the domain name in message subject.  
+Any other domain redirecting to this page is not for sale.
 
 
 So long and thanks for all the fish.
