@@ -18,6 +18,10 @@ GitHub: [kolobus](https://github.com/kolobus)
 
 Please, be careful with your communication. I never ask for money, advertise any investment tools and coins  or do any other scam. Impersonatiors are shit. Always ask for proof before accepting strange offers.
 
+KMD: RHHKo1uDphYzJySbVa5Xfp1nTXQJne97Xn 
+Pirate: zs1tr2496hc66elyqdd0034c4zyemte5zrsrm9sl7qm96c2dls3q92f8v2tdk248tagdnm5cp7jy2g 
+BTC: 1FedorovDiaxVXJjqWk8AFA5x1uNi1N5K6 
+
 ## PGP Key
 
 I use [KeyBase](https://keybase.io/kolo/) with nickname `kolo` and my key fingerprint is  
