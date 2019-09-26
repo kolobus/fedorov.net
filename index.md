@@ -37,16 +37,16 @@ Following domains are currently for sale:
 
 | Domain | Description | Price |
 | --- | --- | --- |
-| o.sb | single letter domain | make offer |
-| k.sb | single letter domain | make offer |
-| on.tj | 2-letter Tajikistan | make offer |
-| ba.kz | 2-letter Kazakhstan | make offer |
-| nz.kz | 2-letter Kazakhstan | make offer |
-| zl.kz | 2-letter Kazakhstan | make offer |
-| zm.kz | 2-letter Kazakhstan | make offer |
-| zn.kz | 2-letter Kazakhstan | make offer |
-| zr.kz | 2-letter Kazakhstan | make offer |
-| netzr.com | Net project name | make offer |
+| `o.sb` | single letter domain | make offer |
+| `k.sb` | single letter domain | make offer |
+| `on.tj` | 2-letter Tajikistan | make offer |
+| `ba.kz` | 2-letter Kazakhstan | make offer |
+| `nz.kz` | 2-letter Kazakhstan | make offer |
+| `zl.kz` | 2-letter Kazakhstan | make offer |
+| `zm.kz` | 2-letter Kazakhstan | make offer |
+| `zn.kz` | 2-letter Kazakhstan | make offer |
+| `zr.kz` | 2-letter Kazakhstan | make offer |
+| `netzr.com` | Net project name | make offer |
 
 Please, send your price offers to the e-mail above. Put the domain name in message subject. Any other domain redirecting to this page is not for sale.
 
