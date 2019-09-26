@@ -31,10 +31,24 @@ I use [KeyBase](https://keybase.io/kolo/) with nickname `kolo` and my key finger
 493E 0F07 CC48 03F3 DA1F 517C F225 8EF2 C55A 2A2F
 ```
 
-## Domains
+## Domains for sale
 
-Following domains are currently for sale: `o.sb`, `k.sb`, `ba.kz`, `nz.kz`, `zl.kz`, `zm.kz`, `zn.kz`, `zr.kz`, `netzr.com`. Please, send your price offers to the e-mail above. Put the domain name in message subject.  
-Any other domain redirecting to this page is not for sale.
+Following domains are currently for sale: 
+
+| Domain | Description | Price |
+| --- | --- | --- |
+| o.sb | single letter domain | make offer |
+| k.sb | single letter domain | make offer |
+| on.tj | 2-letter Tajikistan | make offer |
+| ba.kz | 2-letter Kazakhstan | make offer |
+| nz.kz | 2-letter Kazakhstan | make offer |
+| zl.kz | 2-letter Kazakhstan | make offer |
+| zm.kz | 2-letter Kazakhstan | make offer |
+| zn.kz | 2-letter Kazakhstan | make offer |
+| zr.kz | 2-letter Kazakhstan | make offer |
+| netzr.com | Net project name | make offer |
+
+Please, send your price offers to the e-mail above. Put the domain name in message subject. Any other domain redirecting to this page is not for sale.
 
 
 So long and thanks for all the fish.
