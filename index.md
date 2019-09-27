@@ -37,18 +37,18 @@ Following domains are currently for sale:
 
 | Domain | Description | Price |
 | --- | --- | --- |
-| `o.sb` | single letter domain | make offer |
-| `k.sb` | single letter domain | make offer |
-| `on.tj` | 2-letter Tajikistan | make offer |
-| `ba.kz` | 2-letter Kazakhstan | make offer |
-| `nz.kz` | 2-letter Kazakhstan | make offer |
-| `zl.kz` | 2-letter Kazakhstan | make offer |
-| `zm.kz` | 2-letter Kazakhstan | make offer |
-| `zn.kz` | 2-letter Kazakhstan | make offer |
-| `zr.kz` | 2-letter Kazakhstan | make offer |
-| `netzr.com` | Net project name | make offer |
+| `o.sb` | Very rare single letter domain | 12000 EUR |
+| `k.sb` | Very rare single letter domain | 12000 EUR |
+| `on.tj` | 2-letter domain in Tajikistan .tj zone | make offer |
+| `ba.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `nz.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `zl.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `zm.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `zn.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `zr.kz` | 2-letter domain in Kazakhstan .kz zone | make offer |
+| `netzr.com` | IT/Net related project name | make offer |
 
-Please, send your price offers to the e-mail above. Put the domain name in message subject. Any other domain redirecting to this page is not for sale.
+Please, send your offers to the e-mail above. Put domain name in message subject.
 
 
 So long and thanks for all the fish.
