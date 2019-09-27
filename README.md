@@ -1,1 +1,1 @@
-Nothing to see here. Go ask @Alright.
+Nothing to see here. Go grab some tasty food.
