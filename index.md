@@ -9,8 +9,8 @@ Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_P
 My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world.  
 Discord nickname: [kolo#1111](https://komodoplatform.com/discord)
 
-Certified Bitcoin Professional (C4 CBP) by CryptoCurrency Certification Consortium.  
-Certified Information Security and Data Protection Specialist by InfoTech College (2008).  
+Certified Bitcoin Professional (C4, CryptoCurrency Certification Consortium, 2019).  
+Information Security and Data Protection Specialist (InfoTech College, 2008).  
 Ordinated as a minister of the [Church of the Flying Spaghetti Monster](https://www.venganza.org).
 
 ## Contacts
