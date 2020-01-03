@@ -53,5 +53,6 @@ Following domains are currently for sale:
 
 Please, send your offers to the e-mail above. Put domain name in message subject.
 
-
 So long and thanks for all the fish.
+
+!(Best viewed with Netscape)[https://user-images.githubusercontent.com/2559459/71701245-73130180-2dd9-11ea-9714-da48093b8b1d.gif]
