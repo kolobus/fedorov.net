@@ -6,8 +6,7 @@ Married, wife: [Marianna](https://fedorova.net)
 Cat owner: scottish fold, [Pixel](https://user-images.githubusercontent.com/2559459/57902173-b92e4b80-7870-11e9-82e2-aa8ed27cbcbd.jpg)  
 Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_Petersburg)
 
-My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world.  
-Discord nickname: [kolo#1111](https://komodoplatform.com/discord)
+My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world. Find us at Discord, my nick is [kolo#1111](https://komodoplatform.com/discord).
 
 Certified Bitcoin Professional (C4, CryptoCurrency Certification Consortium, 2019).  
 Information Security and Data Protection Specialist (InfoTech College, 2008).
@@ -15,7 +14,7 @@ Information Security and Data Protection Specialist (InfoTech College, 2008).
 
 ## Contacts
 
-Mail: [mihail@](https://fedorov.net/)fedorov.net  
+Mail: [mihail@fedorov.net](mailto:mihail@fedorov.net)  
 Telegram: [@kolobus](https://t.me/kolobus)  
 Twitter: [@2mf](https://twitter.com/2mf)  
 GitHub: [kolobus](https://github.com/kolobus)
