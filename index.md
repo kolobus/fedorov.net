@@ -1,17 +1,20 @@
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/2559459/57902025-11b11900-7870-11e9-94b9-a9d9c6ef5c5c.jpg">
 
-Hi! My name is Mihail «Kolo» Fedorov, and I'm typical nerd: security specialist, systems administrator, developer operations engineer, PHP developer, cryptocurrency addict. This is my very own place for things, which I want to share. Someday it will be filled with useful information, manuals, my ideas, projects and random cute cat pictures.
+Under construction (since 1999): This is my very own place for things, which I want to share. Later it will be filled with useful information, manuals, my ideas, projects and some random unicorn pictures, but now it's empty.
 
-Married, wife: [Marianna](https://fedorova.net)  
-Cat owner: scottish fold, [Pixel](https://user-images.githubusercontent.com/2559459/57902173-b92e4b80-7870-11e9-82e2-aa8ed27cbcbd.jpg)  
-Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_Petersburg)
-
-My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world. Find us at Discord, my nick is [kolo#1111](https://komodoplatform.com/discord).
+My name is Mihail «Kolo» Fedorov, and I'm typical nerd: security specialist, systems administrator, developer operations engineer, PHP dev (not anymore), cryptocurrency enthusiast. 
 
 Certified Bitcoin Professional (C4, CryptoCurrency Certification Consortium, 2019).  
 IPv6 Sage (Hurricane Electric, 2014).  
 Systems Administrator / DevOps (RetraTech, 2010).  
 Information Security and Data Protection Specialist (InfoTech College, 2008).
+
+Jewish, married (wife [Marianna](https://fedorova.net)), enslaved by scottish fold cat named [Pixel](https://user-images.githubusercontent.com/2559459/57902173-b92e4b80-7870-11e9-82e2-aa8ed27cbcbd.jpg).  
+Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_Petersburg)
+
+My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world. Find us at Discord, my nick is [kolo#1111](https://komodoplatform.com/discord).
+
+
 
 
 ## Contacts
