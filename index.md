@@ -8,7 +8,9 @@ Location: [St. Petersburg, Russia (GMT+3)](https://en.wikipedia.org/wiki/Saint_P
 
 My current work and main addiction is [Komodo Platform](https://komodoplatform.com) - the best cryptocurrency ecosystem in the world. Find us at Discord, my nick is [kolo#1111](https://komodoplatform.com/discord).
 
-Certified Bitcoin Professional (C4, CryptoCurrency Certification Consortium, 2019).  
+Certified Bitcoin Professional (C4, CryptoCurrency Certification Consortium, 2019). 
+IPv6 Sage (Hurricane Electric, 2014).  
+Systems Administrator / DevOps (RetraTech, 2010).  
 Information Security and Data Protection Specialist (InfoTech College, 2008).
 
 
