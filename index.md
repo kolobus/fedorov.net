@@ -1,6 +1,6 @@
 <img align="right" width="120" height="120" src="https://user-images.githubusercontent.com/2559459/57902025-11b11900-7870-11e9-94b9-a9d9c6ef5c5c.jpg">
 
-Hi. This is my very own place for things, which I want to share. Later it will be filled with useful information, manuals, my ideas, projects and some random unicorn pictures, but now it's empty. Under construction since 2001. 
+Hi. This is my very own place for things, which I want to share. Later it will be filled with useful information, manuals, my ideas, projects and some random unicorn pictures, but now it's empty. It's under construction, since 2001. 
 
 My name is Mihail «Kolo» Fedorov, and I'm typical nerd: security specialist, systems administrator, developer operations engineer, PHP dev (not anymore), cryptocurrency enthusiast. 
 
