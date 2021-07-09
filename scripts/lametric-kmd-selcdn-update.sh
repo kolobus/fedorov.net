@@ -4,7 +4,7 @@ source ~/.secret
 full_balance=$(curl -s -XGET https://kmdexplorer.io/insight-api-komodo/addr/$LAMETRIC_BL_WALLET/ | jq -r '.balance')
 balance=$(printf "%.1f\n" "$full_balance")
 
-jq -n --arg balance $balance '{ frames: [ { text: $balance, icon: 25862, index: 0 } ] }' > /dev/shm/lametric-kmd-balance.json
+jq -n --arg balance $balance '{ frames: [ { text: $balance, icon: 25861, index: 0 } ] }' > /dev/shm/lametric-kmd-balance.json
 
 # ToDo: better way
 
