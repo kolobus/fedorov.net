@@ -14,4 +14,4 @@ token=$(curl -s -XPOST "https://api.selcdn.ru/v2.0/tokens" -H "Content-type: app
 # Put
 
 curl -s -XPUT https://api.selcdn.ru/v1/$LAMETRIC_SEL_BUCKETPATH -H "X-Auth-Token: $token" -T "/dev/shm/lametric-kmd-balance.json"
-
+rm /dev/shm/lametric-kmd-balance.json
